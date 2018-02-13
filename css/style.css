@@ -26,7 +26,6 @@ body {
 .headertitle {
   margin-top: 2px;
   color: rgb (88, 88, 88);
-  display: inline;
   text-align:center;
 }
 .headerinput {
