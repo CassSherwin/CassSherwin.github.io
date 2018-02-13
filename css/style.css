@@ -5,11 +5,11 @@ body {
     text-align: center;
 }
 /* Top Header */
-#header {
+#header-div {
   background-color: rgb (255, 255, 255);
   color: gray;
   text-align: center;
-  height: 50px;
+  height: 55px;
   display:flex;
   justify-content: flex-end;
   flex-direction: row;
