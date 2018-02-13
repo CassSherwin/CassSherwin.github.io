@@ -9,7 +9,7 @@ body {
   background-color: rgb (255, 255, 255);
   color: gray;
   text-align: center;
-  height: 30px;
+  height: 50px;
   display:flex;
   justify-content: flex-end;
   flex-direction: row;
@@ -20,7 +20,7 @@ body {
   height: 50px;
   width: 45px;
   padding-right: 1130px;
-  padding-bottom: 2px;
+  padding-bottom: -20px;
   margin-top: 2px;
 }
 .headertitle {
@@ -61,6 +61,7 @@ body {
   background-color: #68c7cc;
   margin-left: 10px;
   margin-top: 2px;
+  padding-bottom: -20px;
   display: inline;
 }
 /* First section */
