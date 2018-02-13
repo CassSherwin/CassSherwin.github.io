@@ -16,8 +16,10 @@ body {
   color: gray;
   text-align: center;
   height: 30px;
-  display:flex
-  display: inline;
+  display:flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
 }
 .logo {
   text-align: left;
