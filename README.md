@@ -1,2 +1,2 @@
-# CassSherwin.github.io.
+# CassSherwin.github.io
 First Challenge
