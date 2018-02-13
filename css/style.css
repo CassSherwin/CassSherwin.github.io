@@ -9,18 +9,13 @@ body {
   background-color: rgb (255, 255, 255);
   color: gray;
   text-align: center;
-  height: 50px;
+  height: 45px;
 }
 #header-div {
   background-color: rgb (255, 255, 255);
   color: gray;
   text-align: center;
   height: 30px;
-  display:flex;
-  justify-content: center;
-  flex-direction: row;
-  align-items: center;
-  display: inline;
 }
 .logo {
   text-align: left;
