@@ -22,14 +22,14 @@ body {
   height: 50px;
   width: 45px;
   padding-right: 1130px;
-  padding-bottom: 5px;
+  padding-bottom: 0px;
   margin-top: 4px;
 }
 .headertitle {
   margin-top: 5px;
   color: rgb (88, 88, 88);
   text-align:center;
-  padding-bottom: 5px;
+  padding-bottom: 0px;
 }
 .headerinput {
   float: right;
