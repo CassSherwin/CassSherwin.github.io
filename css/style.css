@@ -16,6 +16,8 @@ body {
   color: gray;
   text-align: center;
   height: 30px;
+  display:flex
+  display: inline;
 }
 .logo {
   text-align: left;
