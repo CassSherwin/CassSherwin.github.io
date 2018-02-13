@@ -10,10 +10,10 @@ body {
   color: gray;
   text-align: center;
   height: 30px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display:flex;
+  justify-content: flex-end;
   flex-direction: row;
+  display: inline;
 }
 .logo {
   text-align: left;
@@ -27,18 +27,21 @@ body {
   padding-bottom: -20px;
   margin-top: 2px;
   color: rgb (88, 88, 88);
+  display: inline;
 }
 .headerinput {
   float: right;
   margin-top: 2px;
   margin-right: 105px;
   color: (88, 88, 88);
+  display: inline;
 }
 .enter {
   height: 22px;
   color: rgb (88, 88, 88);
   border-color: (88, 88, 88);
   color: (88, 88, 88);
+  display: inline;
 }
 .button.sched {
   color: black;
@@ -49,6 +52,7 @@ body {
   width: 60px;
   font-size: 18px;
   background-color: #68c7cc;
+  display: inline;
 }
 .submit1 {
   height: 70px;
@@ -57,6 +61,7 @@ body {
   background-color: #68c7cc;
   margin-left: 10px;
   margin-top: 2px;
+  display: inline;
 }
 /* First section */
 div.imgdiv {
