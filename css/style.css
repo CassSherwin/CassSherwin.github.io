@@ -9,7 +9,7 @@ body {
   background-color: rgb (255, 255, 255);
   color: gray;
   text-align: center;
-  height: 55px;
+  height: 40px;
   display:flex;
   justify-content: flex-end;
   flex-direction: row;
