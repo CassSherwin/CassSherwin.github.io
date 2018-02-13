@@ -5,6 +5,12 @@ body {
     text-align: center;
 }
 /* Top Header */
+.firstheader {
+   background-color: rgb (255, 255, 255);
+  color: gray;
+  text-align: center;
+  height: 40px;
+}
 #header-div {
   background-color: rgb (255, 255, 255);
   color: gray;
