@@ -13,6 +13,16 @@ body {
   position: sticky;
   top: 40px;
 }
+#header-div {
+  background-color: rgb (255, 255, 255);
+  color: gray;
+  text-align: center;
+  height: 45px;
+  display:flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+}
 .logo {
   text-align: left;
   height: 50px;
