@@ -10,8 +10,6 @@ body {
   color: gray;
   text-align: center;
   height: 50px;
-  position: sticky;
-  top: 40px;
 }
 .logo {
   text-align: left;
