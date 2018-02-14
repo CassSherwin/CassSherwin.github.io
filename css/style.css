@@ -11,6 +11,9 @@ body {
   text-align: center;
   height: 50px;
 }
+#header {
+    margin-top: 2px;
+}
 .logo {
   text-align: left;
   height: 50px;
