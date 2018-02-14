@@ -10,10 +10,10 @@ body {
   color: gray;
   text-align: center;
   height: 50px;
-  position: relative;
 }
 #header {
     margin-top: 2px;
+    padding-bottom: 10px;
 }
 .logo {
   text-align: left;
