@@ -17,6 +17,7 @@ body {
 #header {
     margin-top: 2px;
     padding-bottom: 10px;
+    background: rgb (255, 255, 255);
 }
 .logo {
   text-align: left;
